@@ -1,0 +1,5 @@
+ChromeBrowserkey:webdriver.chrome.driver
+ChromeDriverPath:./drivers/chromedriver.exe
+url:https://www.facebook.com/
+Name:9036789500
+password:@Charan789

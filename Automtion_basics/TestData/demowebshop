@@ -1,0 +1,6 @@
+key:webdriver.chrome.driver
+path:./drivers/chromedriver.exe
+url:https://demowebshop.tricentis.com/
+actualTitle:Demo Web Shop
+actualRegisterPageTitle:Demo Web Shop. Register
+Gender:male

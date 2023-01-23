@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Empty chrome browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8871" started-at="2023-01-18T14:21:03 IST" finished-at="2023-01-18T14:21:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8871" started-at="2023-01-18T14:21:03 IST" finished-at="2023-01-18T14:21:12 IST">
+      <class name="viaUsingPom.Tc_002genderFemaleradioButton">
+        <test-method status="PASS" signature="launchingDemoWebShop(java.lang.String)[pri:0, instance:viaUsingPom.Tc_002genderFemaleradioButton@6737fd8f]" name="launchingDemoWebShop" is-config="true" duration-ms="8761" started-at="2023-01-18T14:21:03 IST" finished-at="2023-01-18T14:21:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Empty chrome browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser window is maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchingDemoWebShop -->
+        <test-method status="PASS" signature="femalegenderRadioButton()[pri:0, instance:viaUsingPom.Tc_002genderFemaleradioButton@6737fd8f]" name="femalegenderRadioButton" duration-ms="75" started-at="2023-01-18T14:21:12 IST" finished-at="2023-01-18T14:21:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- femalegenderRadioButton -->
+      </class> <!-- viaUsingPom.Tc_002genderFemaleradioButton -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
